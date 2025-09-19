@@ -39,9 +39,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "友情链接",
     sites: [
       {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
+        title: "庆 夏 Blog",
+        description: "庆 夏 的博客",
+        url: "https://blog.126600.xyz/",
         icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
       },
     ],
@@ -55,11 +55,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "庆 夏-Blog",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://blog.126600.xyz/",
   /**
    * 指定中心 LOGO 图片地址
    */
