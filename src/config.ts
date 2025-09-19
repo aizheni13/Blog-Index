@@ -5,20 +5,20 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "主标题",
-        url: "http://www.your-web-page.com/",
+        url: "https://blog.126600.xyz/",
         icon: "",
         color: "#0171CD",
       },
       {
         title: "主标题",
         description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        url: "https://blog.126600.xyz/",
         icon: "",
       },
       {
         title: "主标题",
         description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        url: "https://blog.126600.xyz/",
         icon: "",
       },
     ],
@@ -67,7 +67,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/aizheni13",
   /**
    * 背景图片地址
    */
